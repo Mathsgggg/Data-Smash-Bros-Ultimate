@@ -5,8 +5,8 @@ Me and my friends are casual players of the Super Smash Bros series and especial
 
 ## Table of Contents
 
-- [Resume of the project](#Resume)
-- [Installation](#installation)
+- [Resume](#Resume-of-the-project)
+- [Content](#Main-features)
 
 ## Main features
 
